@@ -5,5 +5,6 @@ clrscr();
 for(i=1;i<=10;i++){
 s=s+i;
 }
+  printf("%d",s);
 getch();
 }
